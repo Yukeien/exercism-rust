@@ -1,7 +1,5 @@
 [dependencies]
-
-[features]
-grapheme = []
+unicode-segmentation = "1.9.0"
 
 [package]
 edition = "2021"
