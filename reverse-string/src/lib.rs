@@ -16,7 +16,7 @@ pub fn reverse(input: &str) -> String {
             Some(char) => output.push(char),
             None => ()
         }
-        
+
         i -= 1;
     }
 
